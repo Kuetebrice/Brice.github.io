@@ -23,4 +23,8 @@ border-radius: 50px;
     background-position: center;
     background-repeat: no-repeat;
 }
+#border{
+    border: 3px;
+    background-color: rgba(12, 12, 14, 0.288);
+}
 
